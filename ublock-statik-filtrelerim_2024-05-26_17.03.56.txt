@@ -1,0 +1,8 @@
+! 26 May 2024 https://music.youtube.com
+music.youtube.com##ytmusic-carousel-shelf-renderer.fullbleed.ytmusic-section-list-renderer.style-scope:nth-of-type(1)
+music.youtube.com##ytmusic-carousel-shelf-renderer.fullbleed.ytmusic-section-list-renderer.style-scope:nth-of-type(4)
+music.youtube.com##ytmusic-carousel-shelf-renderer.fullbleed.ytmusic-section-list-renderer.style-scope:nth-of-type(6)
+music.youtube.com##ytmusic-guide-entry-renderer.ytmusic-guide-section-renderer.style-scope:nth-of-type(2)
+music.youtube.com##ytmusic-section-list-renderer.ytmusic-browse-response.style-scope
+music.youtube.com###browse-page
+music.youtube.com##tp-yt-paper-tab.ytmusic-player-page.style-scope.tab-header:nth-of-type(3)
